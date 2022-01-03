@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/amirhpg/.config/glava'
+let g:netrw_dirhist_8='/home/amirhpg/Videos/movie/persian-subtitle-the-lord-of-the-rings-the-fellowship-of-the-ring-2001-All'
+let g:netrw_dirhist_7='/home/amirhpg/Projects/python/virtualenv1/env1'
+let g:netrw_dirhist_6='/home/amirhpg/Projects/python/flask2/code'
+let g:netrw_dirhist_5='/home/amirhpg/.vim'
+let g:netrw_dirhist_4='/home/amirhpg/.config/glava/bars'
+let g:netrw_dirhist_3='/etc/xdg/glava/circle'
+let g:netrw_dirhist_2='/home/amirhpg/.config/glava/circle'
+let g:netrw_dirhist_1='/home/amirhpg/.config'
