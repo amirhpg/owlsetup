@@ -203,13 +203,10 @@ exec feh --bg-scale '/home/amirhpg/Pictures/Wallpapers/owl.jpg'
 #lockscreen
 #exec --no-startup-id xautolock -time 3 -locker 'i3lock-fancy -- scrot -z -o' 
 #Layout
-
+exec_always "setxkbmap -model pc104 us,ir -variant ,, -option grep:alt_shift_toggle"
 
 #remove titlebar 
 new_window pixel 0
 
 #floating workspace
 for_window [workspace="9"] floating enable
-
-
-exec --no-startup-id "setxkbmap -layout us,ir -model pc105 -option 'grep:alt_shift_toggle'"

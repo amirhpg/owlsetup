@@ -1,0 +1,14 @@
+.Xauthority
+.bash_history
+.bash*
+.cache/*
+.mozilla/*
+.wget-hsts
+.local/*
+.lesshst
+.java/*
+.histfile
+.zcompdump*
+.zsh_history
+Downloads/*
+

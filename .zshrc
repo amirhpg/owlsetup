@@ -99,3 +99,9 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+#openconnect s32.serspeed.info:555 -u 1m51986573 --passwd-on-stdin 427136 --no-cert-check
+#
+
+#fix Home and End key
+bindkey  "^[[1~"   beginning-of-line
+bindkey  "^[[4~"   end-of-line

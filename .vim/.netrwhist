@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =9
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/usr/share/X11/xkb/rules'
 let g:netrw_dirhist_9='/home/amirhpg/.config/glava'
 let g:netrw_dirhist_8='/home/amirhpg/Videos/movie/persian-subtitle-the-lord-of-the-rings-the-fellowship-of-the-ring-2001-All'
 let g:netrw_dirhist_7='/home/amirhpg/Projects/python/virtualenv1/env1'
