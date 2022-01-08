@@ -18,7 +18,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1641608739,,"wq"
+|2,0,1641610928,,"wq"
 :w
 |2,0,1641608420,,"w"
 :q!
@@ -119,28 +119,34 @@ $
 |3,1,36,0,1,0,1641566501,"\""
 
 # File marks:
-'0  13  10  ~/.gitignore
-|4,48,13,10,1641608739,"~/.gitignore"
-'1  14  0  ~/.gitignore
-|4,49,14,0,1641608690,"~/.gitignore"
-'2  13  0  ~/.gitignore
-|4,50,13,0,1641608690,"~/.gitignore"
-'3  107  21  ~/.zshrc
-|4,51,107,21,1641608422,"~/.zshrc"
-'4  206  12  ~/.config/i3/config
-|4,52,206,12,1641566555,"~/.config/i3/config"
-'5  206  9  ~/.config/i3/config
-|4,53,206,9,1641487926,"~/.config/i3/config"
-'6  207  0  ~/.config/i3/config.bak
-|4,54,207,0,1641487813,"~/.config/i3/config.bak"
-'7  206  83  ~/.config/i3/config
-|4,55,206,83,1641487756,"~/.config/i3/config"
-'8  206  83  ~/.config/i3/config
-|4,56,206,83,1641487756,"~/.config/i3/config"
-'9  206  0  ~/.config/i3/config
-|4,57,206,0,1641487578,"~/.config/i3/config"
+'0  15  0  ~/.gitignore
+|4,48,15,0,1641610928,"~/.gitignore"
+'1  14  10  ~/.gitignore
+|4,49,14,10,1641608739,"~/.gitignore"
+'2  13  10  ~/.gitignore
+|4,50,13,10,1641608739,"~/.gitignore"
+'3  14  0  ~/.gitignore
+|4,51,14,0,1641608690,"~/.gitignore"
+'4  14  0  ~/.gitignore
+|4,52,14,0,1641608690,"~/.gitignore"
+'5  13  0  ~/.gitignore
+|4,53,13,0,1641608690,"~/.gitignore"
+'6  107  21  ~/.zshrc
+|4,54,107,21,1641608422,"~/.zshrc"
+'7  206  12  ~/.config/i3/config
+|4,55,206,12,1641566555,"~/.config/i3/config"
+'8  206  9  ~/.config/i3/config
+|4,56,206,9,1641487926,"~/.config/i3/config"
+'9  207  0  ~/.config/i3/config.bak
+|4,57,207,0,1641487813,"~/.config/i3/config.bak"
 
 # Jumplist (newest first):
+-'  15  0  ~/.gitignore
+|4,39,15,0,1641610928,"~/.gitignore"
+-'  1  9  ~/.gitignore
+|4,39,1,9,1641610923,"~/.gitignore"
+-'  14  10  ~/.gitignore
+|4,39,14,10,1641608739,"~/.gitignore"
 -'  13  10  ~/.gitignore
 |4,39,13,10,1641608739,"~/.gitignore"
 -'  1  0  ~/.gitignore
@@ -159,6 +165,22 @@ $
 |4,39,107,21,1641608422,"~/.zshrc"
 -'  107  21  ~/.zshrc
 |4,39,107,21,1641608422,"~/.zshrc"
+-'  107  21  ~/.zshrc
+|4,39,107,21,1641608422,"~/.zshrc"
+-'  107  21  ~/.zshrc
+|4,39,107,21,1641608422,"~/.zshrc"
+-'  107  21  ~/.zshrc
+|4,39,107,21,1641608422,"~/.zshrc"
+-'  107  21  ~/.zshrc
+|4,39,107,21,1641608422,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1641608352,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1641608352,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1641608352,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1641608352,"~/.zshrc"
 -'  1  0  ~/.zshrc
 |4,39,1,0,1641608352,"~/.zshrc"
 -'  1  0  ~/.zshrc
@@ -183,6 +205,38 @@ $
 |4,39,206,12,1641566555,"~/.config/i3/config"
 -'  206  12  ~/.config/i3/config
 |4,39,206,12,1641566555,"~/.config/i3/config"
+-'  206  12  ~/.config/i3/config
+|4,39,206,12,1641566555,"~/.config/i3/config"
+-'  206  12  ~/.config/i3/config
+|4,39,206,12,1641566555,"~/.config/i3/config"
+-'  206  12  ~/.config/i3/config
+|4,39,206,12,1641566555,"~/.config/i3/config"
+-'  206  12  ~/.config/i3/config
+|4,39,206,12,1641566555,"~/.config/i3/config"
+-'  206  12  ~/.config/i3/config
+|4,39,206,12,1641566555,"~/.config/i3/config"
+-'  206  12  ~/.config/i3/config
+|4,39,206,12,1641566555,"~/.config/i3/config"
+-'  206  12  ~/.config/i3/config
+|4,39,206,12,1641566555,"~/.config/i3/config"
+-'  206  12  ~/.config/i3/config
+|4,39,206,12,1641566555,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1641566478,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1641566478,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1641566478,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1641566478,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1641566478,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1641566478,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1641566478,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1641566478,"~/.config/i3/config"
 -'  1  0  ~/.config/i3/config
 |4,39,1,0,1641566478,"~/.config/i3/config"
 -'  1  0  ~/.config/i3/config
@@ -215,6 +269,38 @@ $
 |4,39,206,9,1641487926,"~/.config/i3/config"
 -'  206  9  ~/.config/i3/config
 |4,39,206,9,1641487926,"~/.config/i3/config"
+-'  206  9  ~/.config/i3/config
+|4,39,206,9,1641487926,"~/.config/i3/config"
+-'  206  9  ~/.config/i3/config
+|4,39,206,9,1641487926,"~/.config/i3/config"
+-'  206  9  ~/.config/i3/config
+|4,39,206,9,1641487926,"~/.config/i3/config"
+-'  206  9  ~/.config/i3/config
+|4,39,206,9,1641487926,"~/.config/i3/config"
+-'  206  9  ~/.config/i3/config
+|4,39,206,9,1641487926,"~/.config/i3/config"
+-'  206  9  ~/.config/i3/config
+|4,39,206,9,1641487926,"~/.config/i3/config"
+-'  206  9  ~/.config/i3/config
+|4,39,206,9,1641487926,"~/.config/i3/config"
+-'  206  9  ~/.config/i3/config
+|4,39,206,9,1641487926,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1641487892,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1641487892,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1641487892,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1641487892,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1641487892,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1641487892,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1641487892,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1641487892,"~/.config/i3/config"
 -'  1  0  ~/.config/i3/config
 |4,39,1,0,1641487892,"~/.config/i3/config"
 -'  1  0  ~/.config/i3/config
@@ -255,102 +341,17 @@ $
 |4,39,207,0,1641487813,"~/.config/i3/config.bak"
 -'  207  0  ~/.config/i3/config.bak
 |4,39,207,0,1641487813,"~/.config/i3/config.bak"
--'  207  0  ~/.config/i3/config.bak
-|4,39,207,0,1641487813,"~/.config/i3/config.bak"
--'  207  0  ~/.config/i3/config.bak
-|4,39,207,0,1641487813,"~/.config/i3/config.bak"
--'  207  0  ~/.config/i3/config.bak
-|4,39,207,0,1641487813,"~/.config/i3/config.bak"
--'  207  0  ~/.config/i3/config.bak
-|4,39,207,0,1641487813,"~/.config/i3/config.bak"
--'  207  0  ~/.config/i3/config.bak
-|4,39,207,0,1641487813,"~/.config/i3/config.bak"
--'  207  0  ~/.config/i3/config.bak
-|4,39,207,0,1641487813,"~/.config/i3/config.bak"
--'  207  0  ~/.config/i3/config.bak
-|4,39,207,0,1641487813,"~/.config/i3/config.bak"
--'  207  0  ~/.config/i3/config.bak
-|4,39,207,0,1641487813,"~/.config/i3/config.bak"
--'  207  0  ~/.config/i3/config.bak
-|4,39,207,0,1641487813,"~/.config/i3/config.bak"
--'  207  0  ~/.config/i3/config.bak
-|4,39,207,0,1641487813,"~/.config/i3/config.bak"
--'  207  0  ~/.config/i3/config.bak
-|4,39,207,0,1641487813,"~/.config/i3/config.bak"
--'  207  0  ~/.config/i3/config.bak
-|4,39,207,0,1641487813,"~/.config/i3/config.bak"
--'  207  0  ~/.config/i3/config.bak
-|4,39,207,0,1641487813,"~/.config/i3/config.bak"
--'  207  0  ~/.config/i3/config.bak
-|4,39,207,0,1641487813,"~/.config/i3/config.bak"
--'  207  0  ~/.config/i3/config.bak
-|4,39,207,0,1641487813,"~/.config/i3/config.bak"
--'  207  0  ~/.config/i3/config.bak
-|4,39,207,0,1641487813,"~/.config/i3/config.bak"
--'  207  0  ~/.config/i3/config.bak
-|4,39,207,0,1641487813,"~/.config/i3/config.bak"
--'  207  0  ~/.config/i3/config.bak
-|4,39,207,0,1641487813,"~/.config/i3/config.bak"
--'  207  0  ~/.config/i3/config.bak
-|4,39,207,0,1641487813,"~/.config/i3/config.bak"
--'  207  0  ~/.config/i3/config.bak
-|4,39,207,0,1641487813,"~/.config/i3/config.bak"
--'  1  0  ~/.config/i3/config.bak
-|4,39,1,0,1641487780,"~/.config/i3/config.bak"
--'  1  0  ~/.config/i3/config.bak
-|4,39,1,0,1641487780,"~/.config/i3/config.bak"
--'  1  0  ~/.config/i3/config.bak
-|4,39,1,0,1641487780,"~/.config/i3/config.bak"
--'  1  0  ~/.config/i3/config.bak
-|4,39,1,0,1641487780,"~/.config/i3/config.bak"
--'  1  0  ~/.config/i3/config.bak
-|4,39,1,0,1641487780,"~/.config/i3/config.bak"
--'  1  0  ~/.config/i3/config.bak
-|4,39,1,0,1641487780,"~/.config/i3/config.bak"
--'  1  0  ~/.config/i3/config.bak
-|4,39,1,0,1641487780,"~/.config/i3/config.bak"
--'  1  0  ~/.config/i3/config.bak
-|4,39,1,0,1641487780,"~/.config/i3/config.bak"
--'  1  0  ~/.config/i3/config.bak
-|4,39,1,0,1641487780,"~/.config/i3/config.bak"
--'  1  0  ~/.config/i3/config.bak
-|4,39,1,0,1641487780,"~/.config/i3/config.bak"
--'  1  0  ~/.config/i3/config.bak
-|4,39,1,0,1641487780,"~/.config/i3/config.bak"
--'  1  0  ~/.config/i3/config.bak
-|4,39,1,0,1641487780,"~/.config/i3/config.bak"
--'  1  0  ~/.config/i3/config.bak
-|4,39,1,0,1641487780,"~/.config/i3/config.bak"
--'  1  0  ~/.config/i3/config.bak
-|4,39,1,0,1641487780,"~/.config/i3/config.bak"
--'  1  0  ~/.config/i3/config.bak
-|4,39,1,0,1641487780,"~/.config/i3/config.bak"
--'  1  0  ~/.config/i3/config.bak
-|4,39,1,0,1641487780,"~/.config/i3/config.bak"
--'  1  0  ~/.config/i3/config.bak
-|4,39,1,0,1641487780,"~/.config/i3/config.bak"
--'  1  0  ~/.config/i3/config.bak
-|4,39,1,0,1641487780,"~/.config/i3/config.bak"
--'  1  0  ~/.config/i3/config.bak
-|4,39,1,0,1641487780,"~/.config/i3/config.bak"
--'  1  0  ~/.config/i3/config.bak
-|4,39,1,0,1641487780,"~/.config/i3/config.bak"
--'  1  0  ~/.config/i3/config.bak
-|4,39,1,0,1641487780,"~/.config/i3/config.bak"
--'  1  0  ~/.config/i3/config.bak
-|4,39,1,0,1641487780,"~/.config/i3/config.bak"
--'  1  0  ~/.config/i3/config.bak
-|4,39,1,0,1641487780,"~/.config/i3/config.bak"
 
 # History of marks within files (newest to oldest):
 
 > ~/.gitignore
-	*	1641608731	0
-	"	13	10
-	^	13	11
-	.	5	9
-	+	13	11
-	+	5	9
+	*	1641610927	0
+	"	15	0
+	^	1	10
+	.	1	9
+	+	14	11
+	+	6	9
+	+	1	9
 
 > ~/.zshrc
 	*	1641608420	0
